@@ -1,0 +1,36 @@
+{
+  "title": "Introduction_of_ZK-Quant-System",
+  "description": "Introduction_of_ZK-Quant-System",
+  "author": " ",
+  "language": "zh-hans",
+  "root": ".",
+
+  "plugins": [
+    "collapsible-menu",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus",
+    "code",
+    "expandable-chapters-small",
+    "back-to-top-button",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "edit-link"
+  ],
+
+   "pluginsConfig": {
+     "tbfed-pagefooter": {
+       "copyright": "Copyright &copy zhangcheng 2018-2020",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "disqus": {
+      "shortName": "gitbookuse"
+    },
+     "edit-link": {
+       "base": "https://github.com/huangyuqinxx/Introduction_of_ZK-Quant-System",
+       "label": "Edit This Page"
+     }
+   }
+}
