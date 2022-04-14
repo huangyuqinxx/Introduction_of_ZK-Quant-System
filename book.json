@@ -18,18 +18,17 @@
     "search-pro",
     "edit-link"
   ],
-
-   "pluginsConfig": {
+  "pluginsConfig": {
      "tbfed-pagefooter": {
-       "copyright": "Copyright &copy zhangcheng 2018-2020",
-      "modify_label": "文件修订时间：",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
-    "disqus": {
+       "copyright": " ",
+       "modify_label": "文件修订时间：",
+       "modify_format": "YYYY-MM-DD HH:mm:ss"
+     },
+     "disqus": {
       "shortName": "gitbookuse"
-    },
-     "edit-link": {
-       "base": "https://github.com/huangyuqinxx/Introduction_of_ZK-Quant-System",
+     },
+    "edit-link": {
+       "base": "https://github.com/huangyuqinxx/Introduction_of_ZK-Quant-System/tree/main",
        "label": "Edit This Page"
      }
    }
